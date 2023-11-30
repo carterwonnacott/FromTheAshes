@@ -1,0 +1,1 @@
+Moenia Maris is the capital city of [[Imperium Deum]] and is situated on the southern shore of [[Fredun]].
