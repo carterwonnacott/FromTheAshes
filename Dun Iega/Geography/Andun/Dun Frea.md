@@ -1,0 +1,1 @@
+An enormous, lone mountain that dominates the island of [[Andun]]. Although it is generally unknown, this is actually a stratovolcano that has lain dormant until the events of [[The Eruption of Dun Frea]].

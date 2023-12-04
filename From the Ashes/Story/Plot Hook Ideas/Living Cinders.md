@@ -1,0 +1,1 @@
+After the events of [[The Eruption of Dun Frea]], the souls of those who perished in the aftermath have reincarnated as living humanoid cinders. Among them, the Pontifex Maximus reigns, aiming to spread the volcanic blight to the rest of [[The Crescent Isles]].
