@@ -1,30 +1,30 @@
-| d100 | Tag                      |   | d100 | Tag                      |
-|------|--------------------------|---|------|--------------------------|
-| 1–2  | Ancient Infrastructure  |   | 51–52| Magical Academy          |
-| 3–4  | Bad Neighbors           |   | 53–54| Martial Tradition         |
-| 5–6  | Blood Feud               |   | 55–56| Miserable Penury          |
-| 7–8  | Brilliant Innovation    |   | 57–58| Mistreated Blighted       |
-| 9–10 | Broken Spirits           |   | 59–60| Monstrous Tribute         |
-| 11–12| Corrupt Laws             |   | 61–62| Neglectful Ruler          |
-| 13–14| Criminal Bosses          |   | 63–64| New Industry              |
-| 15–16| Cultural Center          |   | 65–66| Pilgrimage Site           |
-| 17–18| Cursed Circumstances     |   | 67–68| Plagued City              |
-| 19–20| Decadent Locals          |   | 69–70| Population Boom           |
-| 21–22| Decaying Working         |   | 71–72| Raider Scourge            |
-| 23–24| Demihuman Populace       |   | 73–74| Rebel Stronghold          |
-| 25–26| Dueling Lords            |   | 75–76| Rigid Castes              |
-| 27–28| Enemy Within             |   | 77–78| Scars of War              |
-| 29–30| Faded Remnant            |   | 79–80| Seat of Rule              |
-| 31–32| Fallen Prosperity        |   | 81–82| Secret Treachery          |
-| 33–34| Foreign Enclave          |   | 83–84| Sinking City              |
-| 35–36| Guild Oligarchy          |   | 85–86| Theocratic Authorities    |
-| 37–38| Heavy Fortification      |   | 87–88| Toxic Economy             |
-| 39–40| Hidden Ruler             |   | 89–90| Trade Hub                 |
-| 41–42| Hostile Terrain          |   | 91–92| Unique Product            |
-| 43–44| Incompetent Leaders      |   | 93–94| Upstart Faith             |
-| 45–46| Inherited Architecture   |   | 95–96| Warring Council           |
-| 47–48| Inhuman Cooperation      |   | 97–98| Widespread Prosperity     |
-| 49–50| Lawless Class            |   | 99–00| Xenophobic Locals         |
+| d100 | Tag                    |   | d100 | Tag                    |
+|------|------------------------|---|------|------------------------|
+| 1–2  | Affliction's Mark      |   | 51–52| Iron Law                |
+| 3–4  | Ancestral Obligation   |   | 53–54| Lost Purpose            |
+| 5–6  | Awesome Legitimacy     |   | 55–56| Magical Subversion      |
+| 7–8  | Awkward Birth          |   | 57–58| Ministerial Capture     |
+| 9–10 | Blandished Leadership   |   | 59–60| New Generation          |
+| 11–12| Cadet Branches         |   | 61–62| New Opportunity         |
+| 13–14| Capricious Orders       |   | 63–64| Outside Debts           |
+| 15–16| Cultural Insignia       |   | 65–66| Overextended Grasp      |
+| 17–18| Daring Ambition         |   | 67–68| Poisonous Cliques       |
+| 19–20| Dark Secret             |   | 69–70| Priestly Influence      |
+| 21–22| Decadent Court          |   | 71–72| Proxy Speaker           |
+| 23–24| Devil's Bargain         |   | 73–74| Rampant Corruption       |
+| 25–26| Diplomatic Demands      |   | 75–76| Recent Brutality         |
+| 27–28| Disputed Inheritance    |   | 77–78| Regency Council          |
+| 29–30| Excess Heirs            |   | 79–80| Restive Lessers          |
+| 31–32| False Prize             |   | 81–82| Rival Dreams             |
+| 33–34| Fatal Extravagance      |   | 83–84| Rival Power              |
+| 35–36| Forbidden Romance       |   | 85–86| Ruling Regalia          |
+| 37–38| Foreign Ties            |   | 87–88| Runaway Rule             |
+| 39–40| Gate Keeper             |   | 89–90| Shining Successor        |
+| 41–42| Hidden Blight           |   | 91–92| Splendid Seat            |
+| 43–44| Hopeless Rival          |   | 93–94| Sublime Skill            |
+| 45–46| Impure Blood            |   | 95–96| Sudden Strength          |
+| 47–48| Inadequate Tools        |   | 97–98| Threatened Violence      |
+| 49–50| Inept Ruler             |   | 99–00| Waning Wealth            |
 
 # Affliction’s Mark
 Some sort of persistent, incurable illness is gnawing at the court. The principle leader might have been felled by it, or a beloved member, or it may be a spreading curse within its circles. Acute diseases will likely have the sufferers desperate to find some cure, while chronic illnesses might need regular infusions of some costly or morally-dubious remedy.
