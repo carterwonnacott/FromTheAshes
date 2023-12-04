@@ -1,4 +1,6 @@
 Moenia Maris is the capital city of [[Imperium Deum]] and is situated on the southern shore of [[Fredun]].
+
+**Tags:** [[Community Tags#Theocratic Authorities]], [[Community Tags#Enemy Within]]
 ## Geography
 While the city proper is on the shore of the channel between [[Fredun]] and [[Twendun]], the house of the national government is actually seated a little to the north within the caldera of a dormant volcano. This location is held by tradition to be the site where the first Pontifex subdued the Demon King.
 ## Government
