@@ -1,4 +1,32 @@
-# Ancient Archives
+| d100 | Tag                  |   | d100 | Tag                   |
+|------|----------------------|---|------|-----------------------|
+| 1–2  | Ancient Archives     |   | 51–52| Invincible Delusion   |
+| 3–4  | Aspiring Conqueror   |   | 53–54| Lethal Treasure        |
+| 5–6  | Automaton Servants   |   | 55–56| Limited Access         |
+| 7–8  | Birthing Cyst        |   | 57–58| Lingering Curse        |
+| 9–10 | Bitter Remnants       |   | 59–60| Living Dungeon         |
+| 11–12| Civil War             |   | 61–62| Lost Colony             |
+| 13–14| Cyclical Doom         |   | 63–64| Magical Wonder          |
+| 15–16| Decrepit Structure    |   | 65–66| Monster Forge           |
+| 17–18| Desperate Hunger      |   | 67–68| Outsider Domain         |
+| 19–20| Dire Tombs            |   | 69–70| Precious Resource       |
+| 21–22| Distant Gate           |   | 71–72| Raider Lair             |
+| 23–24| Dungeon Heart         |   | 73–74| Recruiting Drive         |
+| 25–26| Experimental Lab      |   | 75–76| Religious Zealots        |
+| 27–28| Failed Intrusion       |   | 77–78| Rigid Hierarchy          |
+| 29–30| Fallen Sanctuary       |   | 79–80| Royal Refuge             |
+| 31–32| False Front            |   | 81–82| Sacrificial Bargain       |
+| 33–34| Feral Magic            |   | 83–84| Sealed Evil               |
+| 35–36| Flooded Halls          |   | 85–86| Secret Alliance           |
+| 37–38| Freshly Looted         |   | 87–88| Shifting Interior         |
+| 39–40| Friendly Foes          |   | 89–90| Spatial Flux               |
+| 41–42| Hidden Within          |   | 91–92| Surfacer Hideout          |
+| 43–44| Hiveminded Natives     |   | 93–94| Taboo Place                |
+| 45–46| Hospitable Natives      |   | 95–96| Things Below               |
+| 47–48| Hostile Environment    |   | 97–98| Useless Treasure          |
+| 49–50| Infectious Miasma      |   | 99–00| Wizard's Lair              |
+# 
+Ancient Archives
 The site once housed archives or information that would be very interesting to certain modern powers. The utility or value of this information should be obvious to the players, even if they’re initially unaware of its existence. Known archival sites might have sealed their lore behind some fearsome guardian or a “puzzle” consisting of access procedures that were self-evident in the age it was constructed in.
 
 | **Enemies** | Maddened archive keeper, Powerful figure who wants the information kept hidden, Secret-seeker who brooks no rivals |

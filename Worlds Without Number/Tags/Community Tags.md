@@ -1,5 +1,3 @@
-When assigning community tags, feel free to use the following table to randomly generate tags.
-
 | d100 | Tag                      |   | d100 | Tag                      |
 |------|--------------------------|---|------|--------------------------|
 | 1–2  | Ancient Infrastructure  |   | 51–52| Magical Academy          |
