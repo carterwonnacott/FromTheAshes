@@ -11,5 +11,5 @@ The ruling council of Imperium Deum, led by the Supreme Pontiff, Hermes Vatinius
 | Caius Falerius | Robustus |
 | Lea Popillius | Ventosus |
 
-**Tags:** [[Court Tags#Rival Dreams]], [[Court Tags#Iron Law]]
+**Tags:** [[Court Tags#Rival Dreams|Rival Dreams]], [[Court Tags#Iron Law|Iron Law]]
 
