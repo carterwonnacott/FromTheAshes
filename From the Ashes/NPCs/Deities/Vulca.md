@@ -1,0 +1,1 @@
+The goddess of calamities and unwilling messenger of the gods. Devotees seek to interpret her inconsistent and often overkill messages.

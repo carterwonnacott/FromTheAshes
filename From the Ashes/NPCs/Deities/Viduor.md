@@ -1,0 +1,1 @@
+The three-faced goddess of widows. Supplicants strive to comfort the downtrodden.

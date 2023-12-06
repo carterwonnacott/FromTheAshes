@@ -1,0 +1,1 @@
+The oldest of the pantheon of [[Imperium Deum]], Benefica is the generous goddess of harvest, fishing, and bounty. Her supplicants strive to live an ascetic lifestyle by giving all excess to the poor and needy.

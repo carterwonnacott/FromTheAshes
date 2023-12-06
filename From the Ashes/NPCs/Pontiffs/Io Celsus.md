@@ -1,0 +1,1 @@
+As the Pontiff of [[Vulca]], is a member of [[The College of Pontiffs]]. Secretly seeks to free [[Vulca]] from her pact.
