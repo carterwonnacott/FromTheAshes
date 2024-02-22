@@ -1,0 +1,1 @@
+The goddess of the sun, cleaving truth from deceit. Disciples vow to uphold the truth and abhor dishonesty.

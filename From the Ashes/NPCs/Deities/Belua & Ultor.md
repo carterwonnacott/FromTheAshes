@@ -1,0 +1,1 @@
+The monstrous guardian and the vengeful hero; these two together are the gods of vengeance, guardians, and monster-slaying. Their followers pledge to protect and avenge the weak.

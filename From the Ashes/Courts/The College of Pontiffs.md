@@ -2,14 +2,14 @@ The ruling council of Imperium Deum, led by the Supreme Pontiff, [[Hermes Vatini
 
 | Pontiff | Deity |
 | ------- | ----- |
-| Helvius Caninius | Belua & Ultor |
-| Albanus Ambrosius | Benefica |
-| Io Celsus | Vulca |
-| Corbulo Iovianus | Veritas |
-| Falerius Julianus | Viduor |
-| Macro Xenon | Custos |
-| Caius Falerius | Robustus |
-| Lea Popillius | Ventosus |
+| Helvius Caninius | [[Belua & Ultor]] |
+| Albanus Ambrosius | [[Benefica]] |
+| [[Io Celsus]] | [[Vulca]] |
+| Corbulo Iovianus | [[Veritas]] |
+| Falerius Julianus | [[Viduor]] |
+| Macro Xenon | [[Custos]] |
+| Caius Falerius | [[Robustus]] |
+| Lea Popillius | [[Ventosus]] |
 
 **Tags:** [[Court Tags#Rival Dreams|Rival Dreams]], [[Court Tags#Iron Law|Iron Law]]
 ## Rival Dreams

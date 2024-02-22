@@ -1,0 +1,1 @@
+The youthful god of evil. Devotees seek to keep their god entertained and distracted to prevent calamitous mischief.

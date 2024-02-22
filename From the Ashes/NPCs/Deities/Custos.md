@@ -1,0 +1,1 @@
+The grim keeper of the damned. While those who did well in life will go to the Isles of the Blessed, the Isle of the Damned is a great prison where those who dishonored the gods are imprisoned and subjected to demonic terrors. Disciples of Custos are tasked with the care of the dead.
