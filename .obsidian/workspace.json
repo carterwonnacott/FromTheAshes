@@ -6,51 +6,61 @@
       {
         "id": "0471aaab0a6f3633",
         "type": "tabs",
-        "dimension": 75.54151624548736,
+        "dimension": 67.9530201342282,
         "children": [
           {
-            "id": "82b50c0c4e41b275",
+            "id": "2271c33493fd9957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds Without Number/Tags/Court Tags.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f7db613082b71df8"
-          },
-          {
-            "id": "2e76991d9ba2eebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "From the Ashes/Courts/The College of Pontiffs.md",
+                "file": "From the Ashes/Courts/The Guild of Mages.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6338658adf016b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "From the Ashes/Imperium Deum.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5fdbfd0fc2cf6197"
+          },
+          {
+            "id": "09ae7705497d8108",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "16859256adc2c4be",
+        "id": "07d75482dc1fa1ee",
         "type": "tabs",
-        "dimension": 24.458483754512635,
+        "dimension": 32.04697986577181,
         "children": [
           {
-            "id": "76d842b44cbc8158",
+            "id": "74d97bc338ec97fb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worlds Without Number/Tags/Court Tags.md"
+                "file": "From the Ashes/Imperium Deum.md"
               }
             },
-            "group": "f7db613082b71df8"
+            "group": "5fdbfd0fc2cf6197"
           }
         ]
       }
@@ -118,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Ashes/Courts/The College of Pontiffs.md",
+                "file": "From the Ashes/Imperium Deum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Ashes/Courts/The College of Pontiffs.md",
+                "file": "From the Ashes/Imperium Deum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Ashes/Courts/The College of Pontiffs.md"
+                "file": "From the Ashes/Imperium Deum.md"
               }
             }
           }
@@ -179,43 +189,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e76991d9ba2eebf",
+  "active": "09ae7705497d8108",
   "lastOpenFiles": [
+    "From the Ashes/PCs/Amir.md",
+    "From the Ashes/PCs/Novius.md",
+    "From the Ashes/PCs/Pythagorus.md",
+    "Worlds Without Number/Tags/Court Tags.md",
     "From the Ashes/NPCs/Hermes Vatinius.md",
     "From the Ashes/NPCs/Deities/Vulca.md",
-    "From the Ashes/Courts/The College of Pontiffs.md",
-    "From the Ashes/NPCs/Untitled",
     "From the Ashes/NPCs/Deities",
-    "Dun Iega/History/The Founding of Imperium Deum.md",
-    "Worlds Without Number/Tags/Court Tags.md",
     "From the Ashes/Courts/The Guild of Mages.md",
+    "From the Ashes/Courts/The College of Pontiffs.md",
     "Dun Iega/Settlements/Moenia Maris.md",
-    "From the Ashes/Courts",
-    "Worlds Without Number/Tags/Community Tags.md",
     "Worlds Without Number/Tags/Wilderness Tags.md",
     "Worlds Without Number/Tags/Ruin Tags.md",
-    "Worlds Without Number/Tags/Location Tags.md",
+    "Worlds Without Number/Tags/Community Tags.md",
     "Worlds Without Number/Tags",
-    "Worlds Without Number/Community Tags",
-    "Dun Iega/History/Before Imperium Deum.md",
-    "From the Ashes/Story/Plot Hook Ideas/Bringing Back the Old Gods.md",
-    "Dun Iega/History",
     "From the Ashes/Story/Plot Hook Ideas/Living Cinders.md",
+    "From the Ashes/Courts",
+    "Dun Iega/History/The Founding of Imperium Deum.md",
+    "Dun Iega/History/Before Imperium Deum.md",
+    "Dun Iega/History",
     "Dun Iega/Geography/Andun/Dun Frea.md",
+    "Dun Iega/Geography/Andun/The Mountain King.md",
     "Dun Iega/Geography/Twendun/The Rivals.md",
     "Dun Iega/Geography/Fredun/The Three Sisters.md",
     "From the Ashes/Factions/Imperium Deum/Pro-PM.md",
-    "From the Ashes/PCs/Emo's PC.md",
+    "From the Ashes/NPCs/Pontifex Maximus.md",
+    "From the Ashes/Story/Plot Hook Ideas/Bringing back the old gods.md",
     "Worlds Without Number/GM Notes.md",
     "From the Ashes/Story/Canon/The Eruption of Dun Frea.md",
     "From the Ashes/Story/Plot Hook Ideas",
     "From the Ashes/Story/Canon",
     "Dun Iega/Geography/Continental/Fredun.md",
     "Dun Iega/Geography/The Crescent Isles.md",
-    "Dun Iega/Settlements/Castrum Firmis.md",
     "Dun Iega/Geography/Fredun",
     "Dun Iega/Geography/Twendun",
-    "Dun Iega/Settlements/Portus Munificus.md",
-    "Dun Iega/Settlements/Feldburg.md"
+    "Dun Iega/Geography/Andun",
+    "Dun Iega/Geography/Continental"
   ]
 }
