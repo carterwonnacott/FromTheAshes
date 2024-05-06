@@ -1,0 +1,1 @@
+Was the companion of the guard that [[Pythagorus]] killed- now seeks vengeance. With his passions stoked, nothing will stop him from enacting his own justice.

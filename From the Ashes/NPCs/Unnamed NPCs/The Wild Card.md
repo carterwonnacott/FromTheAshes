@@ -1,0 +1,1 @@
+Participated in [[Amir]] and [[Novius]]'s "The end is near" public doomsaying. Rescued [[Pythagorus]] from capture after his murder of the guards.

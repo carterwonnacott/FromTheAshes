@@ -1,0 +1,1 @@
+[[Io Celsus]] sees the PCs as potential recruits for the revolutionary Cult of Ceridwen. But the PCs must prove themselves as valuable assets before they can be granted access. There'll be a ruin raid involved.
