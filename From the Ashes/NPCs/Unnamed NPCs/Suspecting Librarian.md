@@ -9,9 +9,7 @@ The archivists at the temples of [[Moenia Maris]] are always on the lookout for 
 **HP:** 2
 **Stress:** 3
 **Experience:**
-Temple Archivist +5
+Bibliophile +5
 ### Moves
-##### In With The Good, Out With The Bad
-A character that succeeds in convincing the Suspecting Librarian of their piety has their active support and gains advantage on rolls made conduct non-pagan research in the archive. A character who gives the Suspecting Librarian reason to believe they are heretics gains disadvantage on rolls made to conduct pagan research in the archive.
-##### She's a Witch!
-If the Suspecting Librarian observes an extended period of pagan research, mark stress to verbally confront such a target within Close range to make a 
+##### Guided Studies
+While the suspecting librarian is more than happy to help any individual find research material, they do not wish to catalyze apostasy. If a player is researching pagan material, they must make a check to convince the librarian that they are of pure intent. A success grants the player advantage on their next check to research with the librarian's assistance, and a failure imposes disadvantage on their next research check as the librarian subtly impedes their studies through misguided information, misplaced materials, etc.
